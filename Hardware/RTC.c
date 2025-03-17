@@ -4,7 +4,8 @@
 #include "stm32f10x_bkp.h"
 
 // UNIX时间基准（1970-01-01 00:00:00）
-#define UNIX_EPOCH_OFFSET  946684800  // 2000-01-01到1970-01-01的秒数差
+#define UNIX_EPOCH_OFFSET 946684800 
+// 2000-01-01到1970-01-01的秒数差  1742032171905
 
 // RTC日期时间结构体
 typedef struct {

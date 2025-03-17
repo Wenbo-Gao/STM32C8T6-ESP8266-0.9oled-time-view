@@ -696,16 +696,6 @@
               <FilePath>.\Hardware\ESP8266.h</FilePath>
             </File>
             <File>
-              <FileName>USART1.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Hardware\USART1.c</FilePath>
-            </File>
-            <File>
-              <FileName>USART1.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Hardware\USART1.h</FilePath>
-            </File>
-            <File>
               <FileName>RTC.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Hardware\RTC.c</FilePath>
@@ -714,16 +704,6 @@
               <FileName>RTC.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\Hardware\RTC.h</FilePath>
-            </File>
-            <File>
-              <FileName>cJSON.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Hardware\cJSON.c</FilePath>
-            </File>
-            <File>
-              <FileName>cJSON.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Hardware\cJSON.h</FilePath>
             </File>
           </Files>
         </Group>
